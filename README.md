@@ -1,4 +1,4 @@
-# Android capture blacklist
+# Android capture blacklist 📱
 
 ```
 *.baidu.com,
